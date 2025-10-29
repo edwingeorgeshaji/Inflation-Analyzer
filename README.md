@@ -123,6 +123,6 @@ The web application emphasizes interactivity, responsiveness, and professional d
 
 ## Conclusion
 
-The **Cost of Living Analytics** platform demonstrates an end-to-end data science implementation—from data preprocessing and neural network training to web deployment. The project bridges AI and economics, showcasing how predictive modeling can provide practical insights for decision-making.
+The **Cost of Living Analytics** platform demonstrates an end-to-end data science implementation - from data preprocessing and neural network training to web deployment. The project bridges AI and economics, showcasing how predictive modeling can provide practical insights for decision-making.
 
 As part of **Infosys Springboard Virtual Internship 6.0 (Milestone 1)**, this project lays a strong foundation for future enhancements, focusing on real-world scalability, automation, and advanced forecasting models.
